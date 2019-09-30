@@ -1,0 +1,2 @@
+# tera
+Responsive Wordpress Theme
